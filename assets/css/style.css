@@ -950,7 +950,7 @@ body.light-theme {
     .contact__container {
         grid-template-columns: repeat(2, max-content);
         justify-content: center;
-        column-gap: 3rem;
+        column-gap: 0rem;
     }
 }
 
@@ -1031,7 +1031,7 @@ body.light-theme {
         margin-bottom: .5rem;
     }
     .contact__container {
-        column-gap: 6rem;
+        column-gap: 0rem;
     }
     .footer__social-link {
         font-size: 1.25rem;
