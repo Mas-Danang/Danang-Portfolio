@@ -352,7 +352,8 @@ body.light-theme {
 }
 
 .home__img {
-    width: 120px;
+    width: 200%;
+    height: 90%;
 }
 
 .home__handle {
